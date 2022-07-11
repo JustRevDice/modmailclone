@@ -3,11 +3,11 @@ import praw
 import psaw
 
 reddit = praw.Reddit(
-    client_id="lm46_WBhDlhpz7OKSJAWqQ",
-    client_secret="yoUNr59xapFKlExtHcqiFnBE0ZJt0Q",
+    client_id=" ",
+    client_secret=" ",
     user_agent="Shadow of kaiser bot, v0.1 by u/BasedOnDeezNuts and u/JustRevDice",
-    username="ShadowOfKaiser",
-    password="ReallyBased1",
+    username=" ",
+    password=" ",
 )
 subreddit = reddit.subreddit("leagueoflegends")
 print(subreddit.display_name)
