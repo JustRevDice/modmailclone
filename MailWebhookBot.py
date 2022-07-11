@@ -2,7 +2,7 @@ import feedparser
 import time
 import re
 import requests
-url = "https://discord.com/api/webhooks/909362137120509984/mudb01_jiK7eSrqb2eMuCm6FYc2FBbKndUNN8ABF0JaZ6Gm7Xe_vME1sXfCXgkcU-FSb"
+url = " "
 patternType = r"\bMord|RECKONING|Gargoyle|Sahn|Uzal|AP Bruiser|Rylai|Mitna|Rachnun|Death's Grasp|Stoneplate|Juggernaut|Mih|Aatrox|Nightfall|Riftmaker|Sunfire|Cooking|Mama|Abyssal"
 lastDateStanding = "DEEZ NUTS"
 while True:
